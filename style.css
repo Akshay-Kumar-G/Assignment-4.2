@@ -1,0 +1,17 @@
+body { background: "blue"; font-family: "Arial Black"; }
+
+.blue { color: 'blue'; }
+
+.red { color: 'red'; }
+
+#box { background: 'red'; -webkit-border-radius: 50px; -moz-border-radius: 50px; -ms-border-radius: 50px; border-radius: 50px; height: 20px; width: '50px'; }
+
+.message, .success, .error, .warning { border: 1px solid #ccc; padding: 10px; color: #333; }
+
+.success { border-color: green; }
+
+.error { border-color: red; }
+
+.warning { border-color: yellow; }
+
+/*# sourceMappingURL=style.css.map */
